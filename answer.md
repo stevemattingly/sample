@@ -2,12 +2,12 @@ secondary update
 
 here
 
-is fix one
+is 
 
 my 
 
 work
 
-thank fix two
+thank 
 
 you
