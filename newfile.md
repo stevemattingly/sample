@@ -1,3 +1,1 @@
-this is a new file
-
-another fix
+This represents new file created by instructor; testing git workflows.
